@@ -23,3 +23,5 @@ A3: BUYING: 5075 instances.
 Q4: WhAat is the average sale price for the currencies?
 
 A4: 6833.970386 
+
+- Arkadiusz 
